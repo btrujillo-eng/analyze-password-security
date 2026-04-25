@@ -1,2 +1,2 @@
-# -analyze-password-security
+# analyze-password-security
 REST API for analyzing password security
